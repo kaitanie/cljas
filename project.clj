@@ -5,6 +5,8 @@
                  [org.clojure/clojure-contrib "1.2.0-SNAPSHOT"]
                  [org.freehep/freehep-jaida "3.3.0-11-SNAPSHOT"]
                  [org.freehep/freehep-graphicsio-pdf "2.1.2-SNAPSHOT"]
+		 [org.freehep/freehep-jaida-root "3.3.0-11-SNAPSHOT"]
+                 [org.freehep/jas3 "0.8.3-SNAPSHOT"]
 		 [org.freehep/jas-plotter "2.2.6"]]
   :dev-dependencies [[leiningen-run "0.3"]
                      [autodoc "0.7.0"]
